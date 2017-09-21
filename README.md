@@ -1,6 +1,6 @@
 [![](https://jitpack.io/v/AbduazizKayumov/RoundRectImageView.svg)](https://jitpack.io/#AbduazizKayumov/RoundRectImageView)
 
-# Prefs
+# RoundRectImageView
 Rounded rectangle ImageView for Android with roundRatio.
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
