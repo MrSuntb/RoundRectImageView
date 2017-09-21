@@ -2,7 +2,7 @@
 
 # RoundRectImageView
 Rounded rectangle ImageView for Android with roundRatio.
-![Screenshot](https://github.com/AbduazizKayumov/RoundRectImageView/blob/master/art/art.png)
+![alt text](https://github.com/AbduazizKayumov/RoundRectImageView/blob/master/art/art.png)
 
 ## Setup
 **Step 1.** Add the JitPack repository to your build file
