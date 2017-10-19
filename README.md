@@ -23,7 +23,6 @@ Add it in your root build.gradle at the end of repositories:
 	}
 ```
 ## Usage
-Save primitive data types:
 ```xml
 <com.abduaziz.views.RoundRectImageView
         android:layout_width="100dp"
